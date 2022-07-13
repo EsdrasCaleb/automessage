@@ -1,3 +1,3 @@
 <?php
 
-$string['pluginname'] = 'Mensagens Automáticas';
+$string['pluginname'] = 'Automatic Message';
